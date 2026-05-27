@@ -1,0 +1,8 @@
+{
+  "name": "CONTACT-X",
+  "description": "Elite Architectural Dark Mode Agency Landing Page",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
